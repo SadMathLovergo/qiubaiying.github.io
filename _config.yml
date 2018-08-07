@@ -7,7 +7,7 @@ description: "Stay hungry, stay foolish."
 keyword: "BY, BY Blog, 彭麒麟的博客, pengqilin, 彭麒麟, C++, C#, 服务端开发"
 url: "http://SadMathLovergo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/SadMathLovergo/SadMathLovergo.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+weibo_username:     Mr-P70
+zhihu_username:     SadMathLovergo
+github_username:    SadMathLovergo
+#facebook_username:  baiying.qiu.7
+jianshu_username:   ea2b6db2d726
+twitter_username:   SadMathLovergo
 
 
 
