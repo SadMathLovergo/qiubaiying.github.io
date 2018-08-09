@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 彭麒麟的博客 | BY Blog
+title: P70 Blog
+SEOTitle: 彭麒麟的博客 | P70 Blog
 header-img: img/post-bg-desk.jpg
 email: sadmathlover@gmail.com
 description: "Stay hungry, stay foolish."
-keyword: "BY, BY Blog, 彭麒麟的博客, pengqilin, 彭麒麟, C++, C#, 服务端开发"
+keyword: "P70, P70 Blog, 彭麒麟的博客, pengqilin, 彭麒麟, C++, C#, 服务端开发"
 url: "http://SadMathLovergo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/SadMathLovergo/SadMathLovergo.github.io" # you code repository
