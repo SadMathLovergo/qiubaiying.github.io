@@ -12,7 +12,7 @@ github_repo: "https://github.com/SadMathLovergo/SadMathLovergo.github.io" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Loses don't make losers, excuses do!"
-sidebar-avatar: /img/post-bg-miui6.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/P70-logo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
