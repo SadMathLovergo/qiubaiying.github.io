@@ -9,7 +9,7 @@
 
 >Markdown语法参考教程：[献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER)。
 
-##此博客将包含的主要内容
+## 此博客将包含的主要内容
 * 学习笔记
 	* C++学习笔记
 	* MySQL数据库
